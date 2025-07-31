@@ -11,7 +11,7 @@ series_part: 6
 
 # Real-World Case Studies and Implementation Lessons
 
-*This is the final part of our AI Governance Playbook series. Previous parts: [Introduction]({% post_url 2025-01-31-introduction-ai-governance-caios %}), [Essential Frameworks]({% post_url 2025-02-07-essential-ai-governance-frameworks %}), [Strategic Planning]({% post_url 2025-02-14-strategic-planning-risk-management %}), [Building Your Organization]({% post_url 2025-02-21-building-ai-governance-organization %}), and [Measuring Success]({% post_url 2025-02-28-measuring-success-metrics-kpis %}).*
+*This is the final part of our AI Governance Playbook series. Previous parts: [Introduction](/caio-playbook/2025/01/31/introduction-ai-governance-caios/), [Essential Frameworks](/caio-playbook/2025/02/07/essential-ai-governance-frameworks/), [Strategic Planning](/caio-playbook/2025/02/14/strategic-planning-risk-management/), [Building Your Organization](/caio-playbook/2025/02/21/building-ai-governance-organization/), and [Measuring Success](/caio-playbook/2025/02/28/measuring-success-metrics-kpis/).*
 
 The examination of successful AI governance implementations across different sectors reveals consistent patterns while highlighting industry-specific nuances. Based on academic research and real-world implementations, this analysis provides concrete examples, common pitfalls, and practical lessons that new CAIOs can apply immediately.
 
@@ -436,11 +436,11 @@ By following the practical approaches detailed throughout this series—from fra
 
 This concludes our comprehensive **AI Governance Playbook** series. For your reference, here are all six parts:
 
-1. [Introduction to AI Governance for CAIOs]({% post_url 2025-01-31-introduction-ai-governance-caios %})
-2. [Essential AI Governance Frameworks]({% post_url 2025-02-07-essential-ai-governance-frameworks %})
-3. [Strategic Planning and Risk Management]({% post_url 2025-02-14-strategic-planning-risk-management %})
-4. [Building Your AI Governance Organization]({% post_url 2025-02-21-building-ai-governance-organization %})
-5. [Measuring Success: Metrics and KPIs]({% post_url 2025-02-28-measuring-success-metrics-kpis %})
+1. [Introduction to AI Governance for CAIOs](/caio-playbook/2025/01/31/introduction-ai-governance-caios/)
+2. [Essential AI Governance Frameworks](/caio-playbook/2025/02/07/essential-ai-governance-frameworks/)
+3. [Strategic Planning and Risk Management](/caio-playbook/2025/02/14/strategic-planning-risk-management/)
+4. [Building Your AI Governance Organization](/caio-playbook/2025/02/21/building-ai-governance-organization/)
+5. [Measuring Success: Metrics and KPIs](/caio-playbook/2025/02/28/measuring-success-metrics-kpis/)
 6. Real-World Case Studies and Implementation Lessons *(this post)*
 
 *Thank you for following the complete CAIO Playbook series. We hope these practical frameworks and real-world insights help you build successful AI governance in your organization.*

@@ -11,7 +11,7 @@ series_part: 2
 
 # Essential AI Governance Frameworks for Mid-Sized Organizations
 
-*This is Part 2 of our AI Governance Playbook series. [Read the Introduction]({% post_url 2025-01-31-introduction-ai-governance-caios %}) if you missed it.*
+*This is Part 2 of our AI Governance Playbook series. [Read the Introduction](/caio-playbook/2025/01/31/introduction-ai-governance-caios/) if you missed it.*
 
 The landscape of AI governance frameworks can overwhelm new CAIOs, but three approaches stand out for their adaptability to smaller organizations. Rather than attempting to implement comprehensive enterprise frameworks, successful mid-sized organizations focus on **outcome-oriented, flexible structures** that can be implemented incrementally.
 
@@ -270,6 +270,6 @@ This approach provides comprehensive coverage while maintaining resource efficie
 
 ---
 
-**Next Week**: [Strategic Planning and Risk Management for AI Governance]({% post_url 2025-02-14-strategic-planning-risk-management %}) - We'll dive into developing AI strategy that aligns with business reality and implementing risk management tailored for resource-constrained environments.
+**Next Week**: [Strategic Planning and Risk Management for AI Governance](/caio-playbook/2025/02/14/strategic-planning-risk-management/) - We'll dive into developing AI strategy that aligns with business reality and implementing risk management tailored for resource-constrained environments.
 
 *Part 3 will cover strategic planning approaches, risk assessment methodologies, and compliance strategies specifically adapted for mid-sized organizations.*

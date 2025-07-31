@@ -11,7 +11,7 @@ series_part: 4
 
 # Building Your AI Governance Organization: Structure, Policies, and Change Management
 
-*This is Part 4 of our AI Governance Playbook series. Previous parts: [Introduction]({% post_url 2025-01-31-introduction-ai-governance-caios %}), [Essential Frameworks]({% post_url 2025-02-07-essential-ai-governance-frameworks %}), and [Strategic Planning]({% post_url 2025-02-14-strategic-planning-risk-management %}).*
+*This is Part 4 of our AI Governance Playbook series. Previous parts: [Introduction](/caio-playbook/2025/01/31/introduction-ai-governance-caios/), [Essential Frameworks](/caio-playbook/2025/02/07/essential-ai-governance-frameworks/), and [Strategic Planning](/caio-playbook/2025/02/14/strategic-planning-risk-management/).*
 
 Creating AI governance in organizations without existing frameworks requires careful orchestration of people, processes, and technology. Research consistently shows that **successful implementations start with organizational structure** before diving into technical details. For companies of 100-500 employees, this typically means appointing an AI governance lead who may initially serve part-time while maintaining other responsibilities.
 
@@ -323,6 +323,6 @@ The change management aspect proves particularly crucial in smaller organization
 
 ---
 
-**Next Week**: [Measuring Success: Metrics and KPIs for AI Governance]({% post_url 2025-02-28-measuring-success-metrics-kpis %}) - We'll cover the essential metrics that matter for SMBs, ROI measurement frameworks, and benchmarking approaches.
+**Next Week**: [Measuring Success: Metrics and KPIs for AI Governance](/caio-playbook/2025/02/28/measuring-success-metrics-kpis/) - We'll cover the essential metrics that matter for SMBs, ROI measurement frameworks, and benchmarking approaches.
 
 *Part 5 will provide detailed guidance on selecting the right metrics, measuring governance effectiveness, and demonstrating business value from AI governance investments.*

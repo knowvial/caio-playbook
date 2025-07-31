@@ -11,7 +11,7 @@ series_part: 3
 
 # Strategic Planning and Risk Management for AI Governance
 
-*This is Part 3 of our AI Governance Playbook series. Catch up on [Part 1: Introduction]({% post_url 2025-01-31-introduction-ai-governance-caios %}) and [Part 2: Essential Frameworks]({% post_url 2025-02-07-essential-ai-governance-frameworks %}).*
+*This is Part 3 of our AI Governance Playbook series. Catch up on [Part 1: Introduction](/caio-playbook/2025/01/31/introduction-ai-governance-caios/) and [Part 2: Essential Frameworks](/caio-playbook/2025/02/07/essential-ai-governance-frameworks/).*
 
 Strategic AI planning for smaller organizations requires fundamentally different approaches than those employed by large enterprises. According to [McKinsey's latest State of AI research](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), successful SMBs typically begin with a **"defend position" strategy** focusing on quick wins with 1-2 year ROI timeframes before pursuing more transformative initiatives.
 
@@ -311,6 +311,6 @@ Financial services require attention to:
 
 ---
 
-**Next Week**: [Building Your AI Governance Organization]({% post_url 2025-02-21-building-ai-governance-organization %}) - We'll cover organizational structures, policy development, and change management strategies specifically designed for mid-sized organizations.
+**Next Week**: [Building Your AI Governance Organization](/caio-playbook/2025/02/21/building-ai-governance-organization/) - We'll cover organizational structures, policy development, and change management strategies specifically designed for mid-sized organizations.
 
 *Part 4 will provide detailed guidance on creating governance structures that work, developing effective policies, and managing organizational change during AI transformation.*

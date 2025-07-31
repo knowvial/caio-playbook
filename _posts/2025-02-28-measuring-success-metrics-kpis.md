@@ -11,7 +11,7 @@ series_part: 5
 
 # Measuring Success: Metrics and KPIs for AI Governance
 
-*This is Part 5 of our AI Governance Playbook series. Previous parts: [Introduction]({% post_url 2025-01-31-introduction-ai-governance-caios %}), [Essential Frameworks]({% post_url 2025-02-07-essential-ai-governance-frameworks %}), [Strategic Planning]({% post_url 2025-02-14-strategic-planning-risk-management %}), and [Building Your Organization]({% post_url 2025-02-21-building-ai-governance-organization %}).*
+*This is Part 5 of our AI Governance Playbook series. Previous parts: [Introduction](/caio-playbook/2025/01/31/introduction-ai-governance-caios/), [Essential Frameworks](/caio-playbook/2025/02/07/essential-ai-governance-frameworks/), [Strategic Planning](/caio-playbook/2025/02/14/strategic-planning-risk-management/), and [Building Your Organization](/caio-playbook/2025/02/21/building-ai-governance-organization/).*
 
 The selection of appropriate metrics represents a critical differentiator between organizations that successfully implement AI governance and those that create compliance theater. Research from [VerifyWise](https://verifywise.ai/lexicon/key-performance-indicators-kpis-for-ai-governance/) indicates that **high-performing SMBs track 10-15 core metrics** rather than attempting comprehensive measurement frameworks. These metrics balance leading indicators that predict future success with lagging indicators that demonstrate achieved outcomes.
 
@@ -317,6 +317,6 @@ Based on [SMB ROI tracking research](https://www.ncs-london.com/blog/how-to-meas
 
 ---
 
-**Next Week**: [Real-World Case Studies and Implementation Lessons]({% post_url 2025-03-07-real-world-case-studies-implementation %}) - We'll examine successful AI governance implementations across different industries, analyze common pitfalls, and provide step-by-step implementation roadmaps.
+**Next Week**: [Real-World Case Studies and Implementation Lessons](/caio-playbook/2025/03/07/real-world-case-studies-implementation/) - We'll examine successful AI governance implementations across different industries, analyze common pitfalls, and provide step-by-step implementation roadmaps.
 
 *Part 6 will provide detailed case studies from manufacturing, healthcare, and technology sectors, along with practical lessons learned and implementation templates you can adapt for your organization.*

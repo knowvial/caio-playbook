@@ -158,6 +158,6 @@ The organizations thriving in AI adoption aren't those moving fastest, but those
 
 ---
 
-**Next Week**: [Essential AI Governance Frameworks for Mid-Sized Organizations]({% post_url 2025-02-07-essential-ai-governance-frameworks %}) - We'll dive deep into the three frameworks that work best for SMBs and provide step-by-step implementation guidance.
+**Next Week**: [Essential AI Governance Frameworks for Mid-Sized Organizations](/caio-playbook/2025/02/07/essential-ai-governance-frameworks/) - We'll dive deep into the three frameworks that work best for SMBs and provide step-by-step implementation guidance.
 
 *Subscribe to stay updated as we release each part of this comprehensive playbook.*
